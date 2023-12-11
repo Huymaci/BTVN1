@@ -1,0 +1,6 @@
+Git là một cách thức (mô hình, giao thức, công cụ, qui tắc) để lưu trữ mã nguồn và hỗ trợ cộng tác trong quá trình phát triển ứng dụng.
+git init : Khởi tạo local repository (làm 1 lần khi tạo dự án)
+git add : đưa các thay đổi vào staging aera
+git commit: đưa thay đổi từ staging vào local repo, lưu lại lịch sử thay đổi
+git remote : kết nối với remote repo (làm 1 lần khi tạo dự án)
+git push : đưa code từ local lên remote
